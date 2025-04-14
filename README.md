@@ -31,8 +31,13 @@ For basic usage - you can use the following command:
 This will run all modules directly. 
 
 For a specific module, you can use the following flags: 
+
 `--dns` - Performs the DNS Analysis & Recon Pieces 
+
 `--users` - Performs Web Scraping for Users & User validation
+
 `--files` - Performs File MetaData Enumeration/Hunting
+
 `--spoof` - Perform Microsoft Direct Send Testing
+
 `--all` - Runs all checks
