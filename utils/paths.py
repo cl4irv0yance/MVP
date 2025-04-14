@@ -32,7 +32,7 @@ def setup_output_dirs(domain):
     }
 
 # Default wordlist for dnscan
-dnscan_wordlist_path = "/usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt"
+dnscan_wordlist_path = "/usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt"
 
 # Optional: centralized tool path if using /MVP/tools/
 def get_tool_path(tool_name):
