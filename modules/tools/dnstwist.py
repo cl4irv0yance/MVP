@@ -11,6 +11,6 @@ def run_dnstwist(domain, dns_dir):
     show_spinner("Running dnstwist", process)
     #subprocess.run(cmd)
 
-    source_file = get_home_dir() + "/MVP/results/recon/" + domain + "/squatters.csv"
+    source_file = get_home_dir() + "/MVP/results/dns/" + domain + "/squatters.csv"
     cmd2 = ["cat", source_file]
     subprocess.run(cmd2)
