@@ -13,11 +13,13 @@ DNS Analysis
   - Zone Transfers
   - Typo Squatting Checks
   - Host Information Gathering
+
 Subdomain Enumeration
   - Subdomain Takeovers
+
 File Enumeration & MetaData Review
-User Enumeration (coming soon)
-Breach Data Review (coming soon)
+
+User Enumeration & Breach Data Review (coming soon)
 
 
 ## Usage 
