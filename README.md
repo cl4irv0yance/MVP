@@ -8,18 +8,18 @@ M(ost) (V)aluable (P)ieces is a tool that has been designed to perform various s
 
 Right now, it will perform the following: 
 
-DNS Analysis
+**DNS Analysis**
   - SPF/DMARC/DKIM Checks
   - Zone Transfers
   - Typo Squatting Checks
   - Host Information Gathering
 
-Subdomain Enumeration
+**Subdomain Enumeration**
   - Subdomain Takeovers
 
-File Enumeration & MetaData Review
+**File Enumeration & MetaData Review**
 
-User Enumeration & Breach Data Review (coming soon)
+***User Enumeration & Breach Data Review (coming soon)***
 
 
 ## Usage 
