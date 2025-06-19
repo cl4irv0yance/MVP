@@ -2,7 +2,7 @@
 
 ## What is MVP?
 
-M(ost) (V)aluable (P)ieces is a tool that has been designed to perform various stages of a penetration test for you. Currently, it has several different modules that can be utillized to perform inital phases of a test that you **have been authorized** to perform. 
+M(ost) V(aluable) P(ieces) is a tool that has been designed to perform various stages of a penetration test for you. Currently, it has several different modules that can be utillized to perform inital phases of a test that you **have been authorized** to perform. 
 
 ## What can it do? 
 
