@@ -15,11 +15,12 @@ Right now, it will perform the following:
   - Host Information Gathering
 
 **Subdomain Enumeration**
-  - Subdomain Takeovers
+  - Subdomain Takeovers Checks
 
 **File Enumeration & MetaData Review**
 
 ***User Enumeration & Breach Data Review (coming soon)***
+***Email Spoofing (coming soon)***
 
 
 ## Usage 
